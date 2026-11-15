@@ -1,0 +1,54 @@
+@lang de | Немецкий | Deutsch | 🇩🇪 | 0
+
+@feature Род существительных | Три рода: der, die, das. Род нужно запоминать вместе со словом.
+@feature Падежи | Четыре падежа: Nominativ, Akkusativ, Dativ, Genitiv. Они меняют артикль.
+@feature Порядок слов | Глагол во втором предложении всегда стоит на втором месте, в придаточных — в конце.
+
+@dict travel | Deutsch: Reisen | Путешествия
+der Bahnhof | вокзал | [ˈbaːnhoːf] | Wo ist der Bahnhof?
+die Fahrkarte | билет | [ˈfaːɐ̯kaʁtə] | Eine Fahrkarte, bitte.
+das Hotel | отель | [hoˈtɛl] | Ich buche ein Hotel.
+der Koffer | чемодан | [ˈkɔfɐ] | Mein Koffer ist schwer.
+die Straße | улица | [ˈʃtʁaːsə] | Die Straße ist lang.
+das Wasser | вода | [ˈvasɐ] | Ein Wasser, bitte.
+der Flughafen | аэропорт | [ˈfluːkhaːfn̩] | Der Flughafen ist groß.
+der Reisepass | паспорт | [ˈʁaɪ̯zəˌpas] | Hier ist mein Reisepass.
+die Verspätung | задержка | [fɛɐ̯ˈʃpɛːtʊŋ] | Der Zug hat Verspätung.
+die Reservierung | бронь | [ʁezɛʁˈviːʁʊŋ] | Ich habe eine Reservierung.
+
+@dict business | Deutsch: Business | Деловая лексика
+die Besprechung | совещание | [bəˈʃpʁɛçʊŋ] | Die Besprechung beginnt um zehn.
+der Vertrag | договор | [fɛɐ̯ˈtʁaːk] | Unterschreiben Sie den Vertrag.
+die Frist | срок | [fʁɪst] | Die Frist endet morgen.
+die Rechnung | счёт | [ˈʁɛçnʊŋ] | Die Rechnung bitte.
+der Kunde | клиент | [ˈkʊndə] | Der Kunde wartet.
+das Angebot | предложение | [ˈanɡəboːt] | Ein gutes Angebot.
+das Gehalt | зарплата | [ɡəˈhalt] | Das Gehalt ist gut.
+der Chef | начальник | [ʃɛf] | Der Chef ist im Büro.
+der Termin | назначенная встреча | [tɛɐ̯ˈmiːn] | Ich habe einen Termin.
+der Bericht | отчёт | [bəˈʁɪçt] | Ich schreibe den Bericht.
+
+@dict study | Deutsch: Studium | Учёба и университет
+die Vorlesung | лекция | [ˈfoːɐ̯leːzʊŋ] | Die Vorlesung beginnt um neun.
+die Prüfung | экзамен | [ˈpʁyːfʊŋ] | Morgen ist die Prüfung.
+der Lehrer | учитель | [ˈleːʁɐ] | Der Lehrer erklärt die Regel.
+die Hausaufgabe | домашнее задание | [ˈhaʊ̯sˌʔaʊ̯fɡaːbə] | Ich mache die Hausaufgabe.
+die Bibliothek | библиотека | [bibli̯oˈteːk] | Die Bibliothek ist offen.
+das Buch | книга | [buːx] | Das Buch ist spannend.
+die Note | оценка | [ˈnoːtə] | Eine gute Note.
+lernen | учить | [ˈlɛʁnən] | Ich lerne Deutsch.
+die Schule | школа | [ˈʃuːlə] | Die Schule beginnt früh.
+das Studium | учёба в вузе | [ˈʃtuːdi̯ʊm] | Mein Studium dauert drei Jahre.
+
+@dict it | Deutsch: IT | Лексика разработчика и IT-компаний
+der Fehler | ошибка | [ˈfeːlɐ] | Ich habe einen Fehler gefunden.
+der Server | сервер | [ˈzɛʁvɐ] | Der Server ist ausgefallen.
+der Quellcode | исходный код | [ˈkvɛlkoːt] | Prüfen Sie den Quellcode.
+die Datenbank | база данных | [ˈdaːtn̩baŋk] | Die Datenbank ist langsam.
+die Aktualisierung | обновление | [aktualiˈziːʁʊŋ] | Installieren Sie die Aktualisierung.
+das Passwort | пароль | [ˈpasvɔʁt] | Das Passwort ist falsch.
+der Entwickler | разработчик | [ɛntˈvɪklɐ] | Er ist Entwickler.
+das Netzwerk | сеть | [ˈnɛtsvɛʁk] | Das Netzwerk ist langsam.
+die Funktion | функция | [fʊŋkˈtsi̯oːn] | Eine neue Funktion.
+die Veröffentlichung | релиз | [fɛɐ̯ˈʔœfn̩tlɪçʊŋ] | Die Veröffentlichung ist morgen.
+

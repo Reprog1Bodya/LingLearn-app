@@ -1,0 +1,54 @@
+@lang en | Английский | English | 🇬🇧 | 0
+
+@feature Артикли | В английском два артикля: определённый the и неопределённый a/an. Перед гласным звуком используется an: an apple.
+@feature Порядок слов | Базовый порядок SVO: подлежащее — сказуемое — дополнение. I read books.
+@feature Времена | Система включает 12 времён. Начните с Present Simple, Past Simple и Future Simple.
+
+@dict travel | English: Travel | Аэропорт, отель, город
+airport | аэропорт | [ˈeəpɔːt] | Where is the airport?
+ticket | билет | [ˈtɪkɪt] | One ticket, please.
+hotel | отель | [həʊˈtel] | I booked a hotel.
+luggage | багаж | [ˈlʌɡɪdʒ] | Where is my luggage?
+passport | паспорт | [ˈpɑːspɔːt] | Show your passport.
+map | карта | [mæp] | I need a map.
+reservation | бронь | [ˌrezəˈveɪʃn] | I have a reservation.
+gate | выход на посадку | [ɡeɪt] | Go to gate five.
+delay | задержка | [dɪˈleɪ] | The flight has a delay.
+taxi | такси | [ˈtæksi] | Call a taxi, please.
+
+@dict business | English: Business | Деловая лексика
+meeting | встреча | [ˈmiːtɪŋ] | The meeting starts at ten.
+contract | контракт | [ˈkɒntrækt] | Sign the contract.
+deadline | срок сдачи | [ˈdedlaɪn] | The deadline is Friday.
+invoice | счёт-фактура | [ˈɪnvɔɪs] | Send me the invoice.
+partner | партнёр | [ˈpɑːtnə] | He is our partner.
+budget | бюджет | [ˈbʌdʒɪt] | The budget is small.
+salary | зарплата | [ˈsæləri] | The salary is fair.
+client | клиент | [ˈklaɪənt] | The client is happy.
+report | отчёт | [rɪˈpɔːt] | Send me the report.
+manager | менеджер | [ˈmænɪdʒə] | Ask the manager.
+
+@dict study | English: Study | Учебная лексика
+lesson | урок | [ˈlesn] | The lesson is long.
+exam | экзамен | [ɪɡˈzæm] | I have an exam.
+homework | домашнее задание | [ˈhəʊmwɜːk] | Do your homework.
+teacher | учитель | [ˈtiːtʃə] | The teacher is kind.
+library | библиотека | [ˈlaɪbrəri] | Meet me at the library.
+grade | оценка | [ɡreɪd] | A good grade.
+lecture | лекция | [ˈlektʃə] | The lecture is at nine.
+degree | учёная степень | [dɪˈɡriː] | She has a degree in physics.
+course | курс | [kɔːs] | I take an online course.
+textbook | учебник | [ˈtekstbʊk] | Open your textbook.
+
+@dict it | English: IT & Dev | Лексика разработчика и IT-компаний
+bug | баг, ошибка | [bʌɡ] | I found a bug.
+server | сервер | [ˈsɜːvə] | The server is down.
+code | код | [kəʊd] | Please review my code.
+database | база данных | [ˈdeɪtəbeɪs] | The database is slow.
+update | обновление | [ˈʌpdeɪt] | Install the update.
+password | пароль | [ˈpɑːswɜːd] | Reset your password.
+release | релиз | [rɪˈliːs] | The release is tomorrow.
+feature | функция | [ˈfiːtʃə] | We added a new feature.
+developer | разработчик | [dɪˈveləpə] | He is a developer.
+network | сеть | [ˈnetwɜːk] | The network is down.
+

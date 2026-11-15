@@ -1,0 +1,54 @@
+@lang nl | Нидерландский | Nederlands | 🇳🇱 | 0
+
+@feature Артикли de и het | Два артикля: de (общий род) и het (средний род). Для уменьшительных форм всегда het: het huisje.
+@feature Порядок слов | Как и в немецком, в придаточных предложениях глагол уходит в конец: ik weet dat hij komt.
+@feature Звук g | Буква g читается как гортанный щелевой звук [ɣ] или [x]; в русском такого нет, нужна тренировка.
+@feature Сложные гласные | Сочетания ui, eu, ij, ou читаются как особые дифтонги: huis (дом), leuk (приятный), mijn (мой).
+
+@dict travel | Nederlands: Reizen | Аэропорт, отель, город
+luchthaven | аэропорт | [ˈlʏxtˌhaːvən] | Waar is de luchthaven?
+kaartje | билет | [ˈkaːrcə] | Eén kaartje, alstublieft.
+hotel | отель | [hoːˈtɛl] | Ik heb een hotel geboekt.
+koffer | чемодан | [ˈkɔfər] | Mijn koffer is zwaar.
+paspoort | паспорт | [ˈpɑspoːrt] | Hier is mijn paspoort.
+kaart | карта | [kaːrt] | Ik heb een kaart nodig.
+station | вокзал, станция | [staːˈtsjɔn] | Waar is het station?
+dank je | спасибо | [dɑŋk jə] | Dank je wel!
+alstublieft | пожалуйста | [ˌɑlstyˈblift] | Gaat u zitten, alstublieft.
+goedendag | добрый день | [ˌɣudəˈdɑx] | Goedendag!
+
+@dict business | Nederlands: Zakelijk | Деловая лексика
+vergadering | совещание | [vərˈɣaːdərɪŋ] | De vergadering begint om tien uur.
+contract | договор | [kɔnˈtrɑkt] | Teken het contract.
+deadline | срок | [ˈdɛdlɑin] | De deadline is vrijdag.
+factuur | счёт | [fɑkˈtyːr] | Stuur de factuur.
+klant | клиент | [klɑnt] | De klant wacht.
+salaris | зарплата | [saːˈlaːrɪs] | Het salaris is goed.
+baas | начальник | [baːs] | De baas is op kantoor.
+rapport | отчёт | [rɑˈpɔrt] | Ik schrijf het rapport.
+aanbieding | предложение | [ˈaːmbidɪŋ] | Een goede aanbieding.
+budget | бюджет | [bʏˈdʒɛt] | Het budget is klein.
+
+@dict study | Nederlands: Studie | Учебная лексика
+les | урок | [lɛs] | De les begint nu.
+examen | экзамен | [ɛkˈsaːmən] | Morgen heb ik een examen.
+leraar | учитель | [ˈleːraːr] | De leraar legt het uit.
+boek | книга | [buk] | Het is een goed boek.
+bibliotheek | библиотека | [ˌbibliɔˈteːk] | De bibliotheek is open.
+cijfer | оценка | [ˈsɛifər] | Een goed cijfer.
+leren | учить, учиться | [ˈleːrən] | Ik wil Nederlands leren.
+universiteit | университет | [ˌynivɛrsiˈtɛit] | De universiteit is groot.
+school | школа | [sxoːl] | De school begint om acht uur.
+huiswerk | домашнее задание | [ˈɦœyswɛrk] | Ik maak mijn huiswerk.
+
+@dict it | Nederlands: IT | Лексика разработчика и IT-компаний
+fout | ошибка | [fʌut] | Ik heb een fout gevonden.
+server | сервер | [ˈsɛrvər] | De server is uitgevallen.
+code | код | [ˈkoːdə] | Controleer de code.
+database | база данных | [ˈdaːtaːˌbeːs] | De database is traag.
+update | обновление | [ˈɛpdeːt] | Installeer de update.
+wachtwoord | пароль | [ˈʋɑxtʋoːrt] | Het wachtwoord is fout.
+ontwikkelaar | разработчик | [ɔntˈʋɪkəlaːr] | Hij is ontwikkelaar.
+netwerk | сеть | [ˈnɛtʋɛrk] | Het netwerk ligt eruit.
+functie | функция | [ˈfʏŋksi] | Een nieuwe functie.
+versie | версия | [ˈvɛrsi] | De nieuwe versie komt morgen.

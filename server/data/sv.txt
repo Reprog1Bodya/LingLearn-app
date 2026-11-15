@@ -1,0 +1,54 @@
+@lang sv | Шведский | Svenska | 🇸🇪 | 0
+
+@feature Артикль в конце слова | Определённый артикль присоединяется к слову: bok → boken (книга), hus → huset (дом).
+@feature Два рода | Существительные бывают общего рода (en bok) и среднего (ett hus). Род нужно запоминать вместе со словом.
+@feature Порядок слов V2 | В главном предложении глагол всегда на втором месте: Idag läser jag. (Сегодня я читаю.)
+@feature Мелодика и звуки | У слов два тонных ударения, а сочетания sj, tj, sk перед мягкими гласными дают особые звуки, которых нет в русском.
+
+@dict travel | Svenska: Resor | Аэропорт, отель, город
+flygplats | аэропорт | [ˈflyːɡˌplats] | Var ligger flygplatsen?
+biljett | билет | [bɪˈljɛt] | En biljett, tack.
+hotell | отель | [hʊˈtɛl] | Jag bokade ett hotell.
+resväska | чемодан | [ˈreːsˌvɛska] | Min resväska är tung.
+pass | паспорт | [pas] | Här är mitt pass.
+karta | карта | [ˈkɑːʈa] | Jag behöver en karta.
+station | вокзал, станция | [staˈɧuːn] | Var ligger stationen?
+tack | спасибо | [tak] | Tack så mycket!
+varsågod | пожалуйста | [ˈvɑːʂɔˌɡuːd] | Varsågod, sätt dig.
+hej | привет | [hɛj] | Hej, hur mår du?
+
+@dict business | Svenska: Affärer | Деловая лексика
+möte | встреча | [ˈmøːtɛ] | Mötet börjar klockan tio.
+avtal | договор | [ˈɑːvˌtɑːl] | Skriv under avtalet.
+tidsfrist | срок | [ˈtɪdsˌfrɪst] | Tidsfristen är på fredag.
+faktura | счёт | [fakˈtʉːra] | Skicka fakturan.
+kund | клиент | [kɵnd] | Kunden väntar.
+lön | зарплата | [løːn] | Lönen är bra.
+chef | начальник | [ɧeːf] | Chefen är på kontoret.
+rapport | отчёт | [raˈpɔʈ] | Jag skriver rapporten.
+erbjudande | предложение | [ˈɛrˌbjʉːdandɛ] | Ett bra erbjudande.
+budget | бюджет | [bɵˈɖɛt] | Budgeten är liten.
+
+@dict study | Svenska: Studier | Учебная лексика
+lektion | урок | [lɛkˈɧuːn] | Lektionen börjar nu.
+prov | экзамен, контрольная | [pruːv] | I morgon har jag prov.
+lärare | учитель | [ˈlæːrarɛ] | Läraren förklarar.
+bok | книга | [buːk] | Det är en bra bok.
+bibliotek | библиотека | [bibliuˈteːk] | Biblioteket är öppet.
+betyg | оценка | [bɛˈtyːɡ] | Ett bra betyg.
+lära sig | учить, учиться | [ˈlæːra sɛj] | Jag vill lära mig svenska.
+universitet | университет | [ɵnɪvɛʂɪˈteːt] | Universitetet är stort.
+skola | школа | [ˈskuːla] | Skolan börjar klockan åtta.
+läxa | домашнее задание | [ˈlɛksa] | Jag gör läxan.
+
+@dict it | Svenska: IT | Лексика разработчика и IT-компаний
+fel | ошибка | [feːl] | Jag hittade ett fel.
+server | сервер | [ˈsærvɛr] | Servern ligger nere.
+kod | код | [kuːd] | Granska koden.
+databas | база данных | [ˈdɑːtaˌbɑːs] | Databasen är långsam.
+uppdatering | обновление | [ˈɵpˌdɑːtɛrɪŋ] | Installera uppdateringen.
+lösenord | пароль | [ˈløːsɛnˌuːɖ] | Lösenordet är fel.
+utvecklare | разработчик | [ˈʉːtˌvɛklarɛ] | Hon är utvecklare.
+nätverk | сеть | [ˈnɛːtˌvɛrk] | Nätverket ligger nere.
+funktion | функция | [fɵŋkˈɧuːn] | En ny funktion.
+version | версия | [vɛʂˈɧuːn] | Den nya versionen släpps i morgon.

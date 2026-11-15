@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+server/venv/
+*.sqlite
+*.sqlite3
+*.db
+
+# Environment and Secrets
+.env
+*.env
+!.env.example
+
+# Godot
+.godot/
+*.import
+export_presets.cfg
+*.apk
+*.idsig
+
+# Test / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary
+pdf_text.txt
+/tmp/
+
+# Адрес сервера, который server.py записывает для клиента
+client/server.cfg

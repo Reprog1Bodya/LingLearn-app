@@ -1,0 +1,54 @@
+@lang lv | Латышский | Latviešu | 🇱🇻 | 1
+
+@feature Падежи и род | Семь падежей (включая локатив) и два рода — мужской и женский. Артиклей нет.
+@feature Ударение и долгота | Ударение почти всегда падает на первый слог. Долгие гласные обозначаются чертой: ā, ē, ī, ū.
+@feature Мягкие согласные | Буквы ķ, ļ, ņ, ģ обозначают смягчённые согласные, а č, š, ž читаются как русские «ч», «ш», «ж».
+@feature Окончания | Мужские существительные обычно оканчиваются на -s, -š, женские — на -a, -e: skolotājs (учитель), skolotāja (учительница).
+
+@dict travel | Latviešu: Ceļojumi | Аэропорт, отель, город
+lidosta | аэропорт | [ˈlidosta] | Kur ir lidosta?
+biļete | билет | [ˈbiʎete] | Vienu biļeti, lūdzu.
+viesnīca | отель | [ˈviesniːtsa] | Es rezervēju viesnīcu.
+čemodāns | чемодан | [ˈtʃemodaːns] | Mans čemodāns ir smags.
+pase | паспорт | [ˈpase] | Te ir mana pase.
+karte | карта | [ˈkarte] | Man vajag karti.
+stacija | вокзал, станция | [ˈstatsija] | Kur ir stacija?
+paldies | спасибо | [ˈpaldiɛs] | Liels paldies!
+lūdzu | пожалуйста | [ˈluːdzu] | Lūdzu, ieejiet.
+labdien | добрый день | [ˈlabdiɛn] | Labdien!
+
+@dict business | Latviešu: Bizness | Деловая лексика
+sanāksme | совещание | [ˈsanaːksme] | Sanāksme sākas desmitos.
+līgums | договор | [ˈliːɡums] | Parakstiet līgumu.
+termiņš | срок | [ˈtermiɲʃ] | Termiņš ir piektdien.
+rēķins | счёт | [ˈreːcins] | Nosūtiet rēķinu.
+klients | клиент | [ˈkliɛnts] | Klients gaida.
+alga | зарплата | [ˈalɡa] | Alga ir laba.
+vadītājs | руководитель | [ˈvadiːtaːjs] | Vadītājs ir birojā.
+atskaite | отчёт | [ˈatskaite] | Es rakstu atskaiti.
+piedāvājums | предложение | [ˈpiɛdaːvaːjums] | Labs piedāvājums.
+budžets | бюджет | [ˈbudʒets] | Budžets ir mazs.
+
+@dict study | Latviešu: Mācības | Учебная лексика
+stunda | урок | [ˈstunda] | Stunda sākas tagad.
+eksāmens | экзамен | [ekˈsaːmens] | Rīt ir eksāmens.
+skolotājs | учитель | [ˈskolotaːjs] | Skolotājs paskaidro.
+grāmata | книга | [ˈɡraːmata] | Tā ir laba grāmata.
+bibliotēka | библиотека | [bibliˈoteːka] | Bibliotēka ir atvērta.
+atzīme | оценка | [ˈatziːme] | Laba atzīme.
+mācīties | учиться, учить | [ˈmaːtsiːtiɛs] | Es gribu mācīties latviešu valodu.
+universitāte | университет | [uniˈversitaːte] | Universitāte ir liela.
+skola | школа | [ˈskola] | Skola sākas astoņos.
+mājasdarbs | домашнее задание | [ˈmaːjasdarbs] | Es daru mājasdarbu.
+
+@dict it | Latviešu: IT | Лексика разработчика и IT-компаний
+kļūda | ошибка | [ˈkʎuːda] | Es atradu kļūdu.
+serveris | сервер | [ˈserveris] | Serveris nedarbojas.
+kods | код | [kods] | Pārbaudiet kodu.
+datubāze | база данных | [ˈdatubaːze] | Datubāze ir lēna.
+atjauninājums | обновление | [ˈatjaʊninaːjums] | Instalējiet atjauninājumu.
+parole | пароль | [ˈparole] | Parole ir nepareiza.
+programmētājs | программист | [ˈproɡramːeːtaːjs] | Viņš ir programmētājs.
+tīkls | сеть | [tiːkls] | Tīkls nedarbojas.
+funkcija | функция | [ˈfuŋktsija] | Jauna funkcija.
+versija | версия | [ˈversija] | Jaunā versija ir gatava.

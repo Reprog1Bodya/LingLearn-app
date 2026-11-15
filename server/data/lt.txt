@@ -1,0 +1,54 @@
+@lang lt | Литовский | Lietuvių | 🇱🇹 | 1
+
+@feature Падежи | В литовском семь падежей. Окончание слова показывает его роль в предложении.
+@feature Ударение и тоны | Подвижное ударение и музыкальные тоны (garsažymė): гласная может быть краткой или долгой.
+@feature Носовые гласные | Буквы ą, ę, į, ų сегодня обозначают долгие гласные, исторически — носовые.
+
+@dict travel | Lietuvių: Kelionės | Базовые слова для путешествий
+oro uostas | аэропорт | [ˈoːro ˈuostɐs] | Kur yra oro uostas?
+bilietas | билет | [ˈbɪlʲɪɛtɐs] | Vieną bilietą, prašau.
+viešbutis | отель | [ˈvʲɪɛʃbʊtʲɪs] | Aš užsakiau viešbutį.
+ačiū | спасибо | [ɐˈtʃʲuː] | Labai ačiū!
+prašau | пожалуйста | [prɐˈʃɐʊ] | Prašau, užeikite.
+laba diena | добрый день | [ˈlɐbɐ ˈdʲɪɛnɐ] | Laba diena!
+traukinių stotis | вокзал | [ˈtrɐʊkʲɪnʲuː ˈstotʲɪs] | Kur yra traukinių stotis?
+pasas | паспорт | [ˈpɐsɐs] | Štai mano pasas.
+bagažas | багаж | [bɐˈɡɐʒɐs] | Mano bagažas sunkus.
+vėlavimas | задержка | [ˈvʲeːlɐvʲɪmɐs] | Skrydžio vėlavimas – dvi valandos.
+
+@dict study | Lietuvių: Mokykla | Школьная лексика
+knyga | книга | [ˈknʲɪːɡɐ] | Tai mano knyga.
+mokytojas | учитель | [ˈmoːkʲɪtoːjɐs] | Mokytojas paaiškino.
+pamoka | урок | [ˈpɐmoːkɐ] | Pamoka prasideda.
+egzaminas | экзамен | [ɛɡˈzɐmʲɪnɐs] | Rytoj egzaminas.
+sąsiuvinis | тетрадь | [saːˈsʲʊvʲɪnʲɪs] | Atsineškite sąsiuvinį.
+rašyti | писать | [rɐˈʃʲɪːtʲɪ] | Mėgstu rašyti.
+mokykla | школа | [ˈmoːkʲiːklɐ] | Mokykla prasideda rytą.
+universitetas | университет | [ʊnʲɪvʲɛrsʲɪˈtʲɛtɐs] | Universitetas didelis.
+biblioteka | библиотека | [bʲɪblʲɪjɔˈtʲɛkɐ] | Bibliotekoje tylu.
+pažymys | оценка | [pɐˈʒʲiːmʲɪs] | Gavau gerą pažymį.
+
+@dict business | Lietuvių: Verslas | Деловая лексика
+susitikimas | встреча | [sʊsʲɪtʲɪˈkʲɪmɐs] | Susitikimas prasideda dešimtą.
+sutartis | договор | [sʊtɐrˈtʲɪs] | Pasirašykite sutartį.
+sąskaita | счёт | [ˈsaːskɐɪ̯tɐ] | Atsiųskite sąskaitą.
+klientas | клиент | [ˈklʲɪɛntɐs] | Klientas laukia.
+terminas | срок | [ˈtʲɛrmʲɪnɐs] | Terminas – penktadienis.
+atlyginimas | зарплата | [ɐtˈlʲiːɡʲɪnʲɪmɐs] | Atlyginimas geras.
+vadovas | руководитель | [vɐˈdoːvɐs] | Vadovas yra biure.
+ataskaita | отчёт | [ɐtɐsˈkɐɪ̯tɐ] | Parašiau ataskaitą.
+pasiūlymas | предложение | [pɐˈsʲuːlʲɪmɐs] | Tai geras pasiūlymas.
+biudžetas | бюджет | [bʲʊˈdʐʲɛtɐs] | Biudžetas mažas.
+
+@dict it | Lietuvių: IT | Лексика разработчика и IT-компаний
+klaida | ошибка | [klɐɪ̯ˈdɐ] | Radau klaidą.
+serveris | сервер | [ˈsʲɛrvʲɛrʲɪs] | Serveris neveikia.
+kodas | код | [ˈkoːdɐs] | Peržiūrėkite kodą.
+duomenų bazė | база данных | [dʊɐˈmʲɛnuː ˈbaːzʲeː] | Duomenų bazė lėta.
+atnaujinimas | обновление | [ɐtnɐʊ̯ˈjɪnʲɪmɐs] | Įdiekite atnaujinimą.
+slaptažodis | пароль | [slɐpˈtɐʒoːdʲɪs] | Slaptažodis neteisingas.
+programuotojas | программист | [prɔɡrɐˈmuɔtɔjɐs] | Jis programuotojas.
+tinklas | сеть | [ˈtʲɪŋklɐs] | Tinklas neveikia.
+funkcija | функция | [ˈfʊŋktsʲɪjɐ] | Nauja funkcija.
+versija | версия | [ˈvʲɛrsʲɪjɐ] | Nauja versija jau čia.
+

@@ -1,0 +1,54 @@
+@lang et | Эстонский | Eesti | 🇪🇪 | 1
+
+@feature Падежи | В эстонском 14 падежей; артиклей и грамматического рода нет.
+@feature Три степени долготы | Звуки бывают краткими, долгими и сверхдолгими, и это меняет смысл слов. Ударение падает на первый слог.
+@feature Гласная õ | Звука õ [ɤ] в русском нет: это «о», произнесённое с растянутыми, неокруглёнными губами.
+@feature Умлауты | Буквы ä, ö, ü читаются как [æ], [ø], [y]: lääne (запад), töö (работа), kool.
+
+@dict travel | Eesti: Reisimine | Аэропорт, отель, город
+lennujaam | аэропорт | [ˈlenːuˌjɑːm] | Kus on lennujaam?
+pilet | билет | [ˈpilet] | Üks pilet, palun.
+hotell | отель | [ˈhotelː] | Broneerisin hotelli.
+kohver | чемодан | [ˈkohːʋer] | Mu kohver on raske.
+pass | паспорт | [pɑsː] | Siin on mu pass.
+kaart | карта | [kɑːrt] | Vajan kaarti.
+jaam | вокзал, станция | [jɑːm] | Kus on jaam?
+aitäh | спасибо | [ˈɑitæh] | Aitäh väga!
+palun | пожалуйста | [ˈpɑlun] | Palun istuge.
+tere päevast | добрый день | [ˈtere ˈpæeʋɑst] | Tere päevast!
+
+@dict business | Eesti: Äri | Деловая лексика
+koosolek | совещание | [ˈkoːsolek] | Koosolek algab kell kümme.
+leping | договор | [ˈlepiŋk] | Allkirjasta leping.
+tähtaeg | срок | [ˈtæhtɑˌeɡ] | Tähtaeg on reedel.
+arve | счёт | [ˈɑrʋe] | Saada arve.
+klient | клиент | [ˈklient] | Klient ootab.
+palk | зарплата | [pɑlk] | Palk on hea.
+ülemus | начальник | [ˈylemus] | Ülemus on kontoris.
+aruanne | отчёт | [ˈɑruɑne] | Kirjutan aruande.
+pakkumine | предложение | [ˈpɑkːumine] | Hea pakkumine.
+eelarve | бюджет | [ˈeːlɑrʋe] | Eelarve on väike.
+
+@dict study | Eesti: Õppimine | Учебная лексика
+tund | урок | [tunt] | Tund algab nüüd.
+eksam | экзамен | [ˈeksɑm] | Homme on eksam.
+õpetaja | учитель | [ˈɤpetɑjɑ] | Õpetaja selgitab.
+raamat | книга | [ˈrɑːmɑt] | See on hea raamat.
+raamatukogu | библиотека | [ˈrɑːmɑtuˌkoɡu] | Raamatukogu on lahti.
+hinne | оценка | [ˈhinːe] | Hea hinne.
+õppida | учить, учиться | [ˈɤpːidɑ] | Tahan eesti keelt õppida.
+ülikool | университет | [ˈylikoːl] | Ülikool on suur.
+kool | школа | [koːl] | Kool algab kell kaheksa.
+kodutöö | домашнее задание | [ˈkoduˌtøː] | Teen kodutööd.
+
+@dict it | Eesti: IT | Лексика разработчика и IT-компаний
+viga | ошибка | [ˈʋiɡɑ] | Leidsin vea.
+server | сервер | [ˈserʋer] | Server ei tööta.
+kood | код | [koːt] | Vaata kood üle.
+andmebaas | база данных | [ˈɑndmeˌbɑːs] | Andmebaas on aeglane.
+uuendus | обновление | [ˈuːendus] | Paigalda uuendus.
+parool | пароль | [ˈpɑroːl] | Parool on vale.
+programmeerija | программист | [ˈproɡrɑmˌmeːrijɑ] | Ta on programmeerija.
+võrk | сеть | [ʋɤrk] | Võrk ei tööta.
+funktsioon | функция | [ˈfuŋktsioːn] | Uus funktsioon.
+versioon | версия | [ˈʋersioːn] | Uus versioon tuleb homme.

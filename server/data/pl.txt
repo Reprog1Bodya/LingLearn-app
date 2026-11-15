@@ -1,0 +1,54 @@
+@lang pl | Польский | Polski | 🇵🇱 | 1
+
+@feature Носовые звуки | Буквы ą и ę произносятся как носовые гласные.
+@feature Шипящие | Различайте sz, cz, ż, dż (твёрдые) и ś, ć, ź, dź (мягкие).
+@feature Падежи | Семь падежей, как и в русском, но с отличиями в окончаниях.
+
+@dict travel | Polski: Podróże | Путешествия
+lotnisko | аэропорт | [lɔtˈɲiskɔ] | Gdzie jest lotnisko?
+bilet | билет | [ˈbilɛt] | Poproszę bilet.
+hotel | отель | [ˈxɔtɛl] | Zarezerwowałem hotel.
+dziękuję | спасибо | [ˈdʑɛŋkujɛ] | Dziękuję bardzo.
+proszę | пожалуйста | [ˈprɔʂɛ] | Proszę usiąść.
+dworzec | вокзал | [ˈdvɔʐɛt͡s] | Idę na dworzec.
+paszport | паспорт | [ˈpaʂpɔrt] | Oto mój paszport.
+bagaż | багаж | [ˈbaɡaʂ] | Mój bagaż jest ciężki.
+opóźnienie | задержка | [ɔpuʑˈɲɛɲɛ] | Pociąg ma opóźnienie.
+rezerwacja | бронь | [rɛzɛrˈvat͡sja] | Mam rezerwację.
+
+@dict business | Polski: Biznes | Деловая лексика
+spotkanie | встреча | [spɔtˈkaɲɛ] | Spotkanie jest o dziesiątej.
+umowa | договор | [uˈmɔva] | Podpisz umowę.
+termin | срок | [ˈtɛrmin] | Termin mija w piątek.
+faktura | счёт-фактура | [fakˈtura] | Wyślij fakturę.
+klient | клиент | [ˈklijɛnt] | Klient czeka.
+wynagrodzenie | зарплата | [vɨnaɡrɔˈdzɛɲɛ] | Wynagrodzenie jest dobre.
+szef | начальник | [ʂɛf] | Szef jest w biurze.
+raport | отчёт | [ˈrapɔrt] | Piszę raport.
+oferta | предложение | [ɔˈfɛrta] | To dobra oferta.
+budżet | бюджет | [ˈbud͡ʐɛt] | Budżet jest mały.
+
+@dict study | Polski: Nauka | Учебная лексика
+lekcja | урок | [ˈlɛkt͡sja] | Lekcja trwa godzinę.
+egzamin | экзамен | [ɛɡˈzamin] | Jutro mam egzamin.
+nauczyciel | учитель | [naʊ̯ˈt͡ʂit͡ɕɛl] | Nauczyciel tłumaczy.
+książka | книга | [ˈkɕɔ̃ʂka] | To ciekawa książka.
+biblioteka | библиотека | [bibljɔˈtɛka] | Uczę się w bibliotece.
+ocena | оценка | [ɔˈt͡sɛna] | Dobra ocena.
+uczyć się | учиться | [ˈut͡ʂɨt͡ɕ ɕɛ̃] | Chcę uczyć się polskiego.
+uniwersytet | университет | [uɲiˈvɛrsɨtɛt] | Uniwersytet jest duży.
+zadanie | задание | [zaˈdaɲɛ] | Zrób to zadanie.
+szkoła | школа | [ˈʂkɔwa] | Szkoła zaczyna się o ósmej.
+
+@dict it | Polski: IT | Лексика разработчика и IT-компаний
+błąd | ошибка | [bwɔnt] | Znalazłem błąd.
+serwer | сервер | [ˈsɛrvɛr] | Serwer nie działa.
+kod | код | [kɔt] | Sprawdź mój kod.
+baza danych | база данных | [ˈbaza ˈdanɨx] | Baza danych jest wolna.
+aktualizacja | обновление | [aktualiˈzat͡sja] | Zainstaluj aktualizację.
+hasło | пароль | [ˈxasɫɔ] | Hasło jest błędne.
+programista | программист | [prɔɡraˈmista] | On jest programistą.
+sieć | сеть | [ɕɛt͡ɕ] | Sieć nie działa.
+funkcja | функция | [ˈfuŋkt͡sja] | Nowa funkcja.
+wersja | версия | [ˈvɛrsja] | Nowa wersja jest gotowa.
+

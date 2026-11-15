@@ -1,0 +1,53 @@
+@lang es | Испанский | Español | 🇪🇸 | 0
+
+@feature Род и артикли | Существительные мужского и женского рода: el libro, la casa.
+@feature Ser и estar | Два глагола «быть»: ser — постоянные признаки, estar — состояние и местоположение.
+
+@dict travel | Español: Viajes | Путешествия
+el aeropuerto | аэропорт | [aeɾoˈpweɾto] | ¿Dónde está el aeropuerto?
+el billete | билет | [biˈʝete] | Un billete, por favor.
+el hotel | отель | [oˈtel] | Reservé un hotel.
+la maleta | чемодан | [maˈleta] | Mi maleta es azul.
+la playa | пляж | [ˈplaʝa] | Vamos a la playa.
+el mapa | карта | [ˈmapa] | Necesito un mapa.
+el pasaporte | паспорт | [pasaˈpoɾte] | Aquí está mi pasaporte.
+la estación | вокзал | [estaˈθjon] | ¿Dónde está la estación?
+el retraso | задержка | [reˈtɾaso] | El vuelo tiene retraso.
+la reserva | бронь | [reˈseɾβa] | Tengo una reserva.
+
+@dict business | Español: Negocios | Деловая лексика
+la reunión | встреча | [reuˈnjon] | La reunión es a las diez.
+el contrato | договор | [konˈtɾato] | Firme el contrato.
+la factura | счёт | [fakˈtuɾa] | Envíeme la factura.
+el cliente | клиент | [ˈkljente] | El cliente espera.
+el presupuesto | бюджет | [pɾesuˈpwesto] | El presupuesto es limitado.
+el plazo | срок | [ˈplaθo] | El plazo termina el viernes.
+el sueldo | зарплата | [ˈsweldo] | El sueldo es bueno.
+el jefe | начальник | [ˈxefe] | El jefe está ocupado.
+el informe | отчёт | [imˈfoɾme] | Escribo el informe.
+la oferta | предложение | [oˈfeɾta] | Es una buena oferta.
+
+@dict study | Español: Estudios | Учебная лексика
+la clase | урок | [ˈklase] | La clase empieza ahora.
+el examen | экзамен | [ekˈsamen] | Mañana tengo un examen.
+el profesor | преподаватель | [pɾofeˈsoɾ] | El profesor explica la lección.
+los deberes | домашнее задание | [ˈdeβeɾes] | Hago los deberes.
+la biblioteca | библиотека | [biβljoˈteka] | Estudio en la biblioteca.
+el libro | книга | [ˈliβɾo] | Es un libro interesante.
+la nota | оценка | [ˈnota] | Una nota alta.
+aprender | учить, учиться | [apɾenˈdeɾ] | Quiero aprender español.
+la universidad | университет | [uniβeɾsiˈðað] | La universidad es grande.
+el curso | курс | [ˈkuɾso] | Hago un curso en línea.
+
+@dict it | Español: Informática | Лексика разработчика и IT-компаний
+el error | ошибка | [eˈroɾ] | Hay un error.
+el servidor | сервер | [seɾβiˈðoɾ] | El servidor no responde.
+el código | код | [ˈkoðiɣo] | Revisa mi código.
+la base de datos | база данных | [ˈbase ðe ˈðatos] | La base de datos es lenta.
+la actualización | обновление | [aktwaliθaˈθjon] | Instala la actualización.
+la contraseña | пароль | [kontɾaˈseɲa] | Cambia la contraseña.
+el desarrollador | разработчик | [desaroʝaˈðoɾ] | Es desarrollador.
+la red | сеть | [ˈred] | La red está caída.
+la función | функция | [funˈθjon] | Una función nueva.
+la versión | версия | [beɾˈsjon] | La versión final sale mañana.
+

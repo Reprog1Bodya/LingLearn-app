@@ -1,0 +1,54 @@
+@lang fi | Финский | Suomi | 🇫🇮 | 1
+
+@feature Падежи | В финском 15 падежей: вместо предлогов используются окончания. Например, talo — talossa (в доме), talosta (из дома).
+@feature Нет артиклей и рода | Артиклей и грамматического рода нет: местоимение hän означает и «он», и «она».
+@feature Гармония гласных | Гласные делятся на передние (ä, ö, y) и задние (a, o, u). Окончание подбирается под них: talossa, but kylässä.
+@feature Долгие звуки | Долгота гласных и согласных меняет смысл: tuli (огонь), tuuli (ветер), tulli (таможня). Ударение всегда на первом слоге.
+
+@dict travel | Suomi: Matkustaminen | Аэропорт, отель, город
+lentokenttä | аэропорт | [ˈlentoˌkentːæ] | Missä on lentokenttä?
+lippu | билет | [ˈlipːu] | Yksi lippu, kiitos.
+hotelli | отель | [ˈhotelːi] | Varasin hotellin.
+matkalaukku | чемодан | [ˈmɑtkɑˌlɑukːu] | Matkalaukkuni on raskas.
+passi | паспорт | [ˈpɑsːi] | Tässä on passini.
+kartta | карта | [ˈkɑrtːɑ] | Tarvitsen kartan.
+asema | вокзал, станция | [ˈɑsemɑ] | Missä asema on?
+kiitos | спасибо | [ˈkiːtos] | Kiitos paljon!
+anteeksi | извините | [ˈɑnteːksi] | Anteeksi, missä on bussipysäkki?
+hyvää päivää | добрый день | [ˈhyʋæː ˈpæiʋæː] | Hyvää päivää!
+
+@dict business | Suomi: Liiketoiminta | Деловая лексика
+kokous | совещание | [ˈkokous] | Kokous alkaa kymmeneltä.
+sopimus | договор | [ˈsopimus] | Allekirjoita sopimus.
+määräaika | срок | [ˈmæːræˌɑikɑ] | Määräaika on perjantaina.
+lasku | счёт | [ˈlɑsku] | Lähetä lasku.
+asiakas | клиент | [ˈɑsiɑkɑs] | Asiakas odottaa.
+palkka | зарплата | [ˈpɑlkːɑ] | Palkka on hyvä.
+pomo | начальник | [ˈpomo] | Pomo on toimistolla.
+raportti | отчёт | [ˈrɑportːi] | Kirjoitan raportin.
+tarjous | предложение | [ˈtɑrjous] | Hyvä tarjous.
+budjetti | бюджет | [ˈbudjetːi] | Budjetti on pieni.
+
+@dict study | Suomi: Opiskelu | Учебная лексика
+oppitunti | урок | [ˈopːiˌtunti] | Oppitunti alkaa nyt.
+koe | экзамен, контрольная | [ˈkoe] | Huomenna on koe.
+opettaja | учитель | [ˈopetːɑjɑ] | Opettaja selittää.
+kirja | книга | [ˈkirjɑ] | Tämä on hyvä kirja.
+kirjasto | библиотека | [ˈkirjɑsto] | Kirjasto on auki.
+arvosana | оценка | [ˈɑrʋoˌsɑnɑ] | Hyvä arvosana.
+oppia | учить, выучить | [ˈopːiɑ] | Haluan oppia suomea.
+yliopisto | университет | [ˈyliˌopisto] | Yliopisto on iso.
+koulu | школа | [ˈkoulu] | Koulu alkaa kahdeksalta.
+läksyt | домашнее задание | [ˈlæksyt] | Teen läksyt.
+
+@dict it | Suomi: IT | Лексика разработчика и IT-компаний
+virhe | ошибка | [ˈʋirhe] | Löysin virheen.
+palvelin | сервер | [ˈpɑlʋelin] | Palvelin ei toimi.
+koodi | код | [ˈkoːdi] | Tarkista koodi.
+tietokanta | база данных | [ˈtietoˌkɑntɑ] | Tietokanta on hidas.
+päivitys | обновление | [ˈpæiʋitys] | Asenna päivitys.
+salasana | пароль | [ˈsɑlɑˌsɑnɑ] | Salasana on väärä.
+ohjelmoija | программист | [ˈohjelmoijɑ] | Hän on ohjelmoija.
+verkko | сеть | [ˈʋerkːo] | Verkko ei toimi.
+ominaisuus | функция, свойство | [ˈominɑisuːs] | Uusi ominaisuus.
+versio | версия | [ˈʋersio] | Uusi versio julkaistaan huomenna.
